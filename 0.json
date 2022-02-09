@@ -1,4 +1,6 @@
 {
 "name":"SRP",
-"description": "ouh yeah"
+"description": "Street Runner Points. Stablecoin with 1$ value",
+"image": "https://www.feriasinfo.es/dienst_images/371/logo/glogo.jpg",
+"decimals": 2
 }
