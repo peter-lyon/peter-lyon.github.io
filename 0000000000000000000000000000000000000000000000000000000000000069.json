@@ -1,0 +1,15 @@
+{
+"name":"SR-Cars#00069",
+"description": "Street Runner Cars Metaverse Collection",
+"image": "https://img.motoryracing.com/noticias/portada/25000/25421-n.jpg",
+"attributes": {
+  "level": 1,
+  "manufacturer": "StreetRunner",
+  "model": "N3",
+  "color": "matt-gray",
+  "rims", 'chromed-alu-19"',
+  "hp": 369,
+  "roof" : "normal",
+  "weight": 1569,
+}
+}
